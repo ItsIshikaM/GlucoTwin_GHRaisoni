@@ -1,3 +1,5 @@
+**Video Link:** [Watch on YouTube](https://youtu.be/EJ0alcS67hY) (or directly: [https://youtu.be/EJ0alcS67hY](https://youtu.be/EJ0alcS67hY))
+
 # 🧬 GlucoTwin-India: Multimodal Physiological Digital Twin for Proactive T2DM Glycemic Forecasting
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -14,15 +16,15 @@
 * **Team Name:** `GlucoTwin`
 * **Institution:** G H Raisoni College of Engineering (GHRCE), Nagpur
 * **Team Leader:** Ishika Mehere
-* **Email:** [Contact Email]
-* **Phone:** [Contact Phone]
+* **Email:** ishikamehere@gmail.com
+* **Phone:** 8446618565
 
 ---
 
 ## 🎥 Demonstration Video (Minimum 20 Minutes)
 * **Video Title:** GlucoTwin: System Architecture, Multimodal Fusion Model & Clinical Decision Cockpit
-* **Link:** `▶️ [INSERT UNLISTED YOUTUBE VIDEO LINK HERE]`
-* **Duration:** 21 minutes 30 seconds
+* **Link:** [Watch on YouTube](https://youtu.be/EJ0alcS67hY) (or directly: [https://youtu.be/EJ0alcS67hY](https://youtu.be/EJ0alcS67hY))
+* **Duration:** 9 minutes 22 seconds
 * **Agenda:**
   * `00:00 - 04:15` Clinical Motivation & Diabetes Burden in India
   * `04:15 - 08:30` Dual Data Stream Pipeline & DPDP Act 2023 Compliance
